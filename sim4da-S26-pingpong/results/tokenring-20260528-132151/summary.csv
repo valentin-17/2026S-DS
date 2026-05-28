@@ -1,0 +1,8 @@
+n,status,rounds,multicasts,minMs,avgMs,maxMs,durationSeconds,heapMbPerNode,logDir
+2,ok,7,4,0.155,13.905,93.851,1.3,3481,/Users/vali/IdeaProjects/2026S-DS/sim4da-S26-pingpong/results/tokenring-20260528-132151
+4,ok,7,5,0.348,27.947,180.757,1.356,1740,/Users/vali/IdeaProjects/2026S-DS/sim4da-S26-pingpong/results/tokenring-20260528-132151
+8,ok,7,8,0.778,53.311,360.853,1.588,870,/Users/vali/IdeaProjects/2026S-DS/sim4da-S26-pingpong/results/tokenring-20260528-132151
+16,ok,6,16,1.764,128.017,702.714,2.045,435,/Users/vali/IdeaProjects/2026S-DS/sim4da-S26-pingpong/results/tokenring-20260528-132151
+32,ok,10,38,6.727,182.18,1650.083,3.169,217,/Users/vali/IdeaProjects/2026S-DS/sim4da-S26-pingpong/results/tokenring-20260528-132151
+64,ok,7,48,16.283,607.441,3819.393,6.91,108,/Users/vali/IdeaProjects/2026S-DS/sim4da-S26-pingpong/results/tokenring-20260528-132151
+128,ok,10,130,36.265,1840.334,14055.747,27.707,54,/Users/vali/IdeaProjects/2026S-DS/sim4da-S26-pingpong/results/tokenring-20260528-132151
