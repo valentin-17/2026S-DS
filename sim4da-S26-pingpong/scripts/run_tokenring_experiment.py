@@ -8,7 +8,7 @@ import time
 from pathlib import Path
 
 
-NODE_COUNTS = [2, 4, 8, 16, 32, 64, 128, 256, 512]
+NODE_COUNTS = [896]
 RUNS_PER_NODE_COUNT = 10
 BASE_PORT = 3000 # the next occupied port is 5050 so this is plenty room for all nodes
 MULTICAST_GROUP = "230.0.0.1"
